@@ -1,6 +1,6 @@
 getgenv().OldAimPart = "UpperTorso"
 getgenv().AimPart = "UpperTorso"
-getgenv().AimlockKey = "x"
+getgenv().AimlockKey = "q"
 getgenv().AimRadius = 30 
 getgenv().ThirdPerson = true
 getgenv().FirstPerson = true
