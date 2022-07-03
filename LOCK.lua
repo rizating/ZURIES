@@ -40,10 +40,10 @@ local PredictionValue = 0.1413
         end
         if Settings.rewrittenmain.DOT == true then
         a.Transparency = 0
-        a.BackgroundTransparency = 1
+        a.BackgroundTransparency = 0
         else
         a.Transparency = 1
-        a.BackgroundTransparency = 1
+        a.BackgroundTransparency = 0
         end
         a.BackgroundColor3 = Color
         local g = Instance.new("UICorner", a)
