@@ -40,7 +40,7 @@ local PredictionValue = 0.1413
         end
         if Settings.rewrittenmain.DOT == true then
         a.Transparency = 0
-        a.BackgroundTransparency = 0
+        a.BackgroundTransparency = 1
         else
         a.Transparency = 1
         a.BackgroundTransparency = 1
